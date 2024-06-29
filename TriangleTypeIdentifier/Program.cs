@@ -1,4 +1,5 @@
-namespace dcit318_assignment1_10975134.TriangleTypeIdentifier
+using System;
+namespace TriangleTypeIdentifier
 {
     public class TriangleTypeIdentifier
     {

@@ -1,4 +1,5 @@
-namespace dcit318_assignment1_10975134.GradeCalculator
+using System;
+namespace GradeCalculator
 {
     public class GradeCalculator
     {

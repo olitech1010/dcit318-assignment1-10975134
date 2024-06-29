@@ -1,8 +1,9 @@
-﻿using dcit318_assignment1_10975134.GradeCalculator;
-using dcit318_assignment1_10975134.TicketPriceCalculator;
-using dcit318_assignment1_10975134.TriangleTypeIdentifier;
+﻿using GradeCalculator;
+using TicketPriceCalculator;
+using TriangleTypeIdentifier;
+using System;
 
-namespace dcit318_assignment1_10975134
+namespace main
 {
     class Program
     {

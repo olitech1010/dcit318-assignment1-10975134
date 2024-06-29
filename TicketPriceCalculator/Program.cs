@@ -1,9 +1,10 @@
-namespace dcit318_assignment1_10975134.TicketPriceCalculator
+using System;
+namespace TicketPriceCalculator
 {
     public class TicketPriceCalculator
     {
-        private const decimal RegularPrice = 10.00;
-        private const decimal DiscountedPrice = 7.00;
+        private const decimal RegularPrice = 10.00m;
+        private const decimal DiscountedPrice = 7.00m;
 
         public static void Run()
         {
